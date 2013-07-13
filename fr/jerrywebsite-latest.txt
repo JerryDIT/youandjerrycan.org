@@ -1,0 +1,324 @@
+Contenu du Site:
+
+http://youandjerrycan.kegtux.org/website/index.html
+
+Tagline :
+Jerry
+Your canvas for digital empowerment...
+and freedom
+
+Origins
+ * 2011, Hedera + ENSCI = Jerry !
+   *  Jerry is born as a collaboration between Hedera Technology, a startup founded by Antoine Castaing and Jérémie Bourdoncle, and 3 design students from ENSCI : Laure Guillou, Xavier Auffrey and Chemsedine Herriche. The goal was to explore new ways to produce servers in a more responsible way. Among other interesting prototypes, Jerry was the cheapest and easiest frame to replicate, so we created an association loi 1901 to push the adventure further.
+
+ * 2012, Doing It Together.
+   * Jerry experienced its attractive superpower during the workshops organized in Paris. Gathering people from tech to artist and eco-minded communities was revealed as part of its nature. Jerry also flew to Innov'Africa where he inspired some local tech activists.
+   *  the first Jerry born overseas was made in Yamoussoukro, Ivory Coast thanks to Afriworkers, free software and entrepreneurship communities mobilization. JerryClan Ivory Coast organizes new workshops and  the community grew  ] (nécessaire ? jvoulais dire que la communauté se développait)
+   * That led us to the organization of two one-week-long workshops in Algiers in December.
+
+ * 2013, Building a network of sharing
+   * Sharing to foster a culture of remix and innovation in a network where everyone can learn and teach practical knowledge about information technology. The more people will make their own Jerry, the more inspiration and improvements will come up. 
+
+
+Manifesto
+Our core values
+ * Learning by doing
+   * "Tell me and I'll forget, show me and I may remember, involve me and I'll understand." _ Confucius
+ * Technology is a tool to free yourself
+   * Create and master your tools instead of being subjected to them. Computers can store, process, receive and transmit information. Use these capacities the way you need & like it to communicate, and create. 
+ * Free software (j'integrerais bien le point sur le logiciel libre dans celui au dessus) ; ben jme suis dis ça et après jpense qu'il faut qd mm faire un point pour que ce soit bien clair et que les barbus soient avec nous \o/ 
+   * GNU/Linux is created following Hacking Ethic Principles. Both values and organisationnal model inspire us as they bring a new consciousness and resources for our connected world. We promote free as in freedom software.
+ * Accessibility
+   * To fight digital divide, making information technologies accessible and understandable by everyone is a requirement. Thanks to DIY and free software [Thanks to its superpowers], Jerry can break cultural, social, and economical barriers down. 
+ * Open knowledge
+   * Ideas nourrish from other ideas, we want to demonstrate that sharing and exchanging knowledge is far more powerful than retaining informations.Our goal is to facilitate the sharing of knowlegde so that people can learn faster from each others instead of being isolated (slower?) learners.
+ * Do it Together
+   * Jerry is not a product, Jerry is an open community. Jerry is not own by anyone, it is open to everyone. Jerry evolves with the contributions of its members.
+ * Distributed networks
+   * The distribution of the autority on the nodes of the network makes internet more resilient. [LIKE]
+ * Remix everything
+   * Because everything is a remix ! http://www.ted.com/talks/lang/fr/kirby_ferguson_embrace_the_remix.html
+   * https://vimeo.com/8040182
+ * Reuse
+   * Electronic waste harm both the people and our environment. The biggest part of the overall footprint happens during manufacturing process. Use and resuse electronic hardware as long as youcan to limit this negative impact. Let's make value out of the waste around us!
+ * Agility
+   * In a complex environment one need to constantly adapt to survive. We encourage grass roots initiatives to rise up and to fall into the promising unkown of making new things! Therefore we prefer flexibility and ad hoc collaboration over hierarchy.
+ * Have FUN !
+   * The only way to do great work is to love what you do.
+
+
+Jerry in action !
+
+ * Workshops
+   * Workshops took place in Paris, Berlin, Yamoussoukro,...
+   * There is no prerequesits, everyone is free to come, learn and create solutions.
+   * 
+
+ * Jerry School, w/ AUF, ShellMates, OpenMinds
+   * 
+
+ * Public presentations
+   * Open world forum
+   * Futur en Seine
+   * Open bidouille camp
+
+
+Resources
+ * Community updates
+   * Facebook
+   * Twitter
+   * Blog + RSS
+   * Agenda
+
+ * Make your Jerry
+   * wiki
+   * youtube
+   * Picasa
+   * knowable
+   * manuel PDF
+
+ * Media Kit
+   * Scoopit
+   * Press kit
+     * Logo (en bonne définition)
+     * Brief (10 lignes) + pitch version longue d'une page max car 10 lignes c'est vraiment court pour faire un article
+     * Images (une de chaque)
+       * Workshops
+         * Paris
+         * Berlin
+         * Abidjan
+         * Alger
+       * Jerrys
+         * Vaisseau mère
+         * Jerry tux - Ubuntu algérie
+         * Jerry custom (choisir dans le batch du palais de Tokyo)
+   * Contact
+
+ * (Setup a workshop) -> plus tard ...
+   * Organizer kit
+     * Checklist
+
+
+FAQ
+ * What is a server?
+   * A server is basically made of the same components as a computer. We usually call "server" a computer that we interact with remotly through the network in place of a screen and a keyboard. Therefore a server needs to be constantly switched on and connected to the internet to be accessible.
+ * What software can I use?
+   * We encourage you to use any free software available that suits your needs. Today free softwares cover a large range of use cases. We listed some applications you can install on Jerry. Hope it will inspire you!
+ * Why a jerrycan?
+   * A jerrycan proves to have several advantages : cheap, easy to find, easy to customize, easy to adapt to your components from various size, transportable,... But we don't consider that the jerrycan is an immutable aspect of the project. We invite you to remix it!
+ * How long does it takes to build a Jerry?
+   * The right question should be what do you want to achieve with your Jerry and how much energy are you willing to put into the adventure?
+ * How to manage overheating?
+   * A jerrycan might not look like the best solution to cool the heating parts. You will have to worry about heating depending on the context where your Jerry will run and the power of your hardware setup. Different solution are implemented, from air vent for passive cooling to huge fans in the facade. Your immagination is the limit!
+
+
+
+Newtwork
+...of friends and partners
+
+ * Emmabuntüs
+   * They build a lightweight GNU/Linux distribution that runs like a charm on old computers
+ * Le Fabelier
+   * Hosted the first Jerry workshop in Paris
+ * MakeSense
+   * We are fueled by the same energy
+ * Knowable
+   * Spread the power of DIY solutions
+ * DreamBottle
+   * Happy interview with Kenny
+ * Shamengo
+   * They highlight changemakers troughout the world
+ * Gust Trip
+   * They turn images and sound into magic to tell inspiring stories
+ * Un instant mon petit
+   * Hosted an amazing workshop in Palais de Tokyo
+ * Mutinerie
+   * We share the same vision about freedom
+ * Afriworkers
+   * They kickstart Jerry in Ivory Coast
+
+ * Humanitech
+   * Jerry won the 2011 edition of this contest focused on information technologies for developement.
+ * KKBB
+   * Foster creativity by crowdfunding
+
+
+ * AUF : http://www.dz.auf.org/
+   * They warmly welcomed Jerry in Algiers
+
+ * Shellmates
+   * Co-organised a week-long workshop in ESI, Algiers.
+ * OpenMinds
+   * Co organised a week-long workshop in USTHB, Algiers.
+ * Close the gap
+   * Gave us some materials at the beginning
+
+
+
+______________________________________________________
+
+Traduction du contenu en Français
+______________________________________________________
+
+Jerry - Faites le ensemble !
+
+Fabriqué à partir de matériaux de récupération, facile à répliquer et à remixer.
+
+Historique
+ * 2011, Hedera + ENSCI = Jerry !
+   * Jerry est né à Paris dans le cadre d'une collaboration entre Hedera Technology - startup fondée par Antoine Castaing et Jérémie Bourdoncle - et 3 designers étudiants à l'ENSCI : Laure Guillou, Xavier Auffret et Chemsedine Herriche.
+
+   Le but était d'explorer des modèles de serveurs produits de manière plus responsable. Parmi d'autres prototypes, Jerry s'est démarqué car peu couteux et facilement réplicable. Une association a été fondée pour prolonger l'aventure.
+
+
+ * 2012, L'expérience du "faire ensemble"
+   
+   Lors des premiers ateliers organisés à Paris, Jerry a exercé son pouvoir attractif en rassemblant des profils variés : bidouilleurs, artistes ou écolos curieux.
+   Jerry a aussi fait une apparition à Innov'Africa où il a inspiré des activistes locaux. Grace à la mobilisation des Afriworkers et de la communauté du logiciel libre, le premier Jerry fabriqué à l'étranger est né à Yamoussoukro capitale de la Côte d'Ivoire.
+   Cet événement à provoqué l'organisation de deux ateliers d'une semaine chacuns à Alger en décembre.
+
+ * 2013, Construire un réseau de partage
+   * Partager pour se réapproprier la technologie. Favoriser la culture du remix pour permettre l'émmergence de nouveaux cas d'utilisation de Jerry. Un réseau où chacun peu apprendre et tout le monde peut enseigner pour développer une meilleure connaissance des concepts et des pratiques liées aux technologies de l'information.
+
+Manifeste
+Nos valeurs
+
+ * Apprendre par la pratique
+   * "Dis-moi et j’oublierai, montre-moi et je me souviendrai, implique-moi et je comprendrai" _ Confucius
+
+ * La technologie est un outil
+   * Nous préférons créer et maîtriser nos outils plutôt que de leur être assujettis. Les ordinateurs peuvent stocker, traiter, envoyer et recevoir de l'information. Autant de capacités à utiliser librement pour communiquer et créer selon nos besoins et nos envies.
+
+ * Accessibilité
+   * Pour réduire la fracture numérique nous voulons rendre l'informatique et ses concepts accessibles et compréhensibles par tous. Grâce à ses super-pouvoirs Jerry peut faire tomber les barrières culturelles, sociales, et économiques.
+ 
+ * Culture libre
+   * Les idées innovantes se construisent sur les idées qui les précèdent. Nous voulons montrer que le partage de la connaissance est bien plus puissant que la protection des idées. Notre but est de faciliter le partage de savoir et de savoir-faire au sein de la communauté pour que chacun puisse apprendre de manière collaborative plutôt que d'être des apprenants isolés.
+
+ * La culture du remix
+   * Nous pratiquons le remix des idées et des pratiques car nous considérons que toute création est déjà un remix.
+
+ * S'ammuser !
+   * Nous prenons du plaisir dans ce que nous faisons :)
+
+ * Le faire ensemble
+   * Jerry n'est pas un produit, c'est une communauté ouverte. Jerry n'appartient à personne mais est ouvert à tous. Jerry s'enrichis des contributions de la communauté.
+
+ * Logiciel libre
+   * Nous encourageons l'utilisation et la participation à des projets de logiciels libres. GNU/Linux a été développé selon les principes de l'éthique hacker. Les valeurs et les modèles organisationnels issus de ces communautés sont pour nous une source d'inspiration. 
+
+ * Réutilisation
+   * Les déchets électroniques sont néfastes pour les êtres humains et leur environnement. À cela s'ajoute le coût social et environnemental de la production de composants électroniques. Nous réutilisons au maximum les composants informatiques existants car nous considérons les déchets qui nous entourent comme une ressource inestimable.
+
+ * Réseaux acentrés
+   * La distribution de l'autorité sur les noeuds du réseau favorise la résilience d'internet.
+
+ * Agilité
+   * Dans un environnement complexe l'adaptation est la clé de la survie. Nous encourageons la prise d'initiative au sein de la communauté. Nous préférons la flexibilité et la collaboration horizontale plutôt que la hiérarchie et la plannification.
+
+
+
+Jerry en action
+* Ateliers
+   * Nous organisons des ateliers qui rassemblent néophytes, experts et passionés autour d'une même table pour construire des Jerrys ensemble dans une ambiance conviviale. 
+
+* Présentations publiques
+   * Jerry is exposed in public events related to open source, free software, DIY, collaborative production, upcycling, and many more topics! Check the agenda to meet members of the community away from your keyboard :)
+
+   * Jerry s'expose lors d'événements publiques en lien avec le logiciel libre, l'open source, la bidouille, la production de bien commun, l'upcycling, et de nombreux autres sujets. Le meilleur moyen de rencontrer Jerry est de garder un oeil sur l'agenda pour être averti des événements à venir.
+
+
+Ressources
+* Vie de la communauté
+Choisis ton média préféré pour suivre les actualités de la communauté Jerry.
+   * Facebook
+   * Twitter
+   * Blog
+   * Agenda
+
+* Fabrique ton Jerry
+Toute la documentation, les tutoriels, et le support nécessaire pour se lancer dans la fabrication d'un Jerry.
+   * wiki
+   * youtube
+   * Picasa
+   * knowable
+
+* Kit média
+Parcourir les publications sur Jerry et télécharger le contenu nécessaire pour communiquer sur le projet.
+
+   * Scoopit
+   * Dossier de presse
+     * Logo (en bonne définition)
+     * Brief (10 lignes)
+     * Images (une de chaque)
+       * Workshops
+         * Paris
+         * Berlin
+         * Abidjan
+         * Alger
+       * Jerrys
+         * Vaisseau mère
+         * Jerry tux - Ubuntu algérie
+         * Jerry custom (choisir dans le batch du palais de Tokyo)
+
+ * (Setup a workshop) -> plus tard ...
+   * Organizer kit
+     * Checklist
+     * 
+
+
+
+# FAQ
+## Qu'est-ce qu'un serveur?
+Un serveur et un ordinateur sont composés des mêmes composants de base. On appelle généralement "serveur" un ordinateur avec lequel on interagit via le réseau plutôt qu'avec un écran et un clavier. Pour être accessible un serveur doit donc être connecté à internet et allumé en permanence.
+
+## Quel logiciels utiliser sur mon Jerry?
+Nous vous encourageons à utiliser des logiciels libres. Les logiciels libres couvrent de nombreux cas d'usage. À titre d'inspiration, il existe une liste d'applications que vous pouvez installer sur votre Jerry.
+
+## Pourquoi un Jerrycan?
+À l'usage le jerrycan possèdes de nombreux atouts : pas cher, facile à personnaliser, se trouve un peu partout, capable d'accueillir tout type de composants, 
+
+            A jerrycan proves to have several advantages : cheap, easy to find, easy to customize, easy to adapt to your components from various size, transportable,... But we don't consider that the jerrycan is an immutable aspect of the project. We invite you to remix it!
+
+## Combien de temps faut-il pour se construire un Jerry?
+La vraie question est plutôt : que veux-tu faire de ton Jerry? et combien d'énergie est-tu prêt à investir dans cette aventure?
+
+## Un ordinateur dans un bidon ça chauffe pas trop?
+Enfermer des composants électroniques qui chaufent à l'intérieur d'un jerrycan étanche ne vous semble pas l'idée la plus lumineuse qui soit?
+Peut-être.
+Selon la puissance de la machine et son contexte d'utilisation, le refroidissement des composants sera une problématique à considérer sérieusement, ou pas. Les solutions <
+
+            A jerrycan might not look like the best solution to cool the heating parts. You will have to worry about heating depending on the context where your Jerry will run and the power of your hardware setup. Different solution are implemented, from air vent for passive cooling to huge fans in the facade. Your immagination is the limit!
+
+
+
+Boosters
+Partners and friends who helped us to grow
+
+ * Emmabuntüs
+   * They build an amazing software !
+ * Le Fabelier
+   * Hosted our first workshop in Paris
+ * Knowable
+   * Host the Jerry tutorial !
+ * DreamBottle
+   * Happy interview with Kenny
+ * Shamengo
+   * Covered a workshop in Paris
+ * Gust Trip
+   * Produced a nice video about Jerry
+ * Close the gap
+   * Gave us some materials at the beginning
+ * Un instant mon petit
+   * Hosted an amazing workshop in Palais de Tokyo.
+ * Mutinerie
+   * Hosted events and frriends
+ * MakeSense
+   * Friends forever
+ * AUF : http://www.dz.auf.org/
+   * They made a warm welcome to Jerry in Algiers
+ * Shellmates
+   * Co-organised a week-long workshop in ESI, Algiers.
+ * OpenMinds
+   * Co organised a week-long workshop in USTHB, Algiers.
+
