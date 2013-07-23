@@ -10,5 +10,6 @@ http://youandjerrycan.org
 + Start coding !
 
 ## Satic sites generator candidates
+[modernstatic.com](http://modernstatic.com/) is a list of serious candidates as it "reflects the most popular and trending projects".
 + docpad (nodejs) : http://nanoc.ws/
 + nanoc (ruby) : http://docpad.org/
