@@ -1,0 +1,4 @@
+SetEnv PHP_VER 5_4
+SetEnv REGISTER_GLOBALS 0
+
+DirectoryIndex agenda.html
