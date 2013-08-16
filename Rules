@@ -21,7 +21,11 @@ compile '*' do
   if item.binary?
     # don’t filter binary items
   else
-    filter :erb
+    case item[:extension]
+    when 'md'
+      filter :kramdown
+    
+    end
     layout 'default'
   end
 end
