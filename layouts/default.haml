@@ -1,0 +1,18 @@
+!!! 5
+%html{:lang => "#{@item[:lang]}"}
+  %head
+    %meta{:charset => "utf-8"}/
+    %title [dev] Jerry DIT - #{@item[:title]}
+
+    %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}/
+    %link{:rel => "stylesheet", :href => "../css/normalize.css"}/
+    %link{:rel => "stylesheet", :href => "../css/foundation.min.css"}/
+    %link{:rel => "stylesheet", :href => "../css/style.css"}/
+
+    / you don't need to keep this, but it's cool for stats
+    %meta{:name => "generator", :content => "nanoc #{Nanoc::VERSION}"}/
+
+  %body
+    #main.row
+      = yield
+    =render 'footer'
