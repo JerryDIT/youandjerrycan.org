@@ -5934,7 +5934,14 @@ h6 [class*=" icon-"] {
 #scene img {
   display: block;
   margin: auto;
-  width: 600px;
+}
+.man-dl {
+  margin: 70px auto 50px;
+}
+.btn-man, .btn-man:hover {
+  font-weight: 700;
+  font-size: 28px;
+  padding: 12px 16px;
 }
 #origins {
   padding-top: 60px;
