@@ -5954,6 +5954,12 @@ h6 [class*=" icon-"] {
 .row2 {
   margin-top: 10px;
 }
+#join {
+  min-height: 400px;
+}
+#mc_embed_signup{
+  clear:left;
+}
 #values {
   padding-top: 60px;
   padding-bottom: 10px;
@@ -6025,41 +6031,41 @@ h6 [class*=" icon-"] {
 }
 #resources li a {
   color: #FFFFFF;
-  background-color: #CCCCCC;
   display: block;
   font-size: 28px;
   font-weight: 300;
   text-transform: uppercase;
 }
 #resources li a:hover {
+  background-color: #CCCCCC;
   opacity: 0.75;
   text-decoration: none;
 }
-#resources .fb-link:hover {
+#resources .fb-link {
   background-color: #3B5998;
   opacity: 1.0;
 }
-#resources .tw-link:hover {
+#resources .tw-link {
   background-color: #00ACED;
   opacity: 1.0;
 }
-#resources .blog-link:hover {
+#resources .blog-link {
   background-color: #5D5D5D;
   opacity: 1.0;
 }
-#resources .agenda-link:hover, #resources .wiki-link:hover, #resources .howto-link:hover, #resources .irc-link:hover, #resources .presskit-link:hover, #resources .contact-link:hover {
+#resources .agenda-link, #resources .wiki-link, #resources .howto-link, #resources .irc-link, #resources .presskit-link, #resources .contact-link {
   background-color: #F49A09;
   opacity: 1.0;
 }
-#resources .pic-link:hover, #resources .yt-link:hover {
+#resources .pic-link, #resources .yt-link {
   background-color: #D74A38;
   opacity: 1.0;
 }
-#resources .scoopit-link:hover {
+#resources .scoopit-link {
   background-color: #71E400;
   opacity: 1.0;
 }
-#resources .knowable-link:hover {
+#resources .knowable-link {
   background-color: #6AA4C5;
   opacity: 1.0;
 }
@@ -6073,23 +6079,23 @@ h6 [class*=" icon-"] {
 #resources p strong {
   color: black;
 }
-#resources .back-to-top a:hover, #partners .back-to-top a:hover, #faq .back-to-top a:hover {
+#resources .back-to-top a:hover, #friends .back-to-top a:hover, #faq .back-to-top a:hover {
   color: #646464;
 }
-#partners {
+#friends {
   padding-top: 60px;
   padding-bottom: 10px;
   border-bottom: 1px solid #EEEEEE;
 }
-#partners img {
+#friends img {
   margin-top: 10px;
   float: right;
   max-height: 100px;
 }
-#partners .friend {
+#friends .friend {
   margin-top: 20px;
 }
-#partners .text-right img {
+#friends .text-right img {
   float: left;
 }
 #faq {
