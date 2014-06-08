@@ -4278,6 +4278,7 @@ a.badge:hover {
 }
 .carousel .item {
   display: none;
+  background-image: 
   position: relative;
   -webkit-transition: 0.6s ease-in-out left;
   -moz-transition: 0.6s ease-in-out left;
@@ -5933,7 +5934,11 @@ h6 [class*=" icon-"] {
 }
 #scene img {
   display: block;
-  margin: auto;
+  margin: 5px auto;
+  width: 45px;
+}
+#scene a:hover {
+  opacity: 0.7;
 }
 .man-dl {
   margin: 70px auto 50px;
@@ -5954,11 +5959,13 @@ h6 [class*=" icon-"] {
 .row2 {
   margin-top: 10px;
 }
-#join {
-  min-height: 400px;
-}
-#mc_embed_signup{
+#mc_embed_signup form{
+  text-align: center;
   clear:left;
+}
+#mc_embed_signup input.email {
+  margin: 10px auto;
+  width: 42%;
 }
 #values {
   padding-top: 60px;
@@ -6045,9 +6052,15 @@ h6 [class*=" icon-"] {
   background-color: #3B5998;
   opacity: 1.0;
 }
+.fb icon {
+  color: #3B5998;
+}
 #resources .tw-link {
   background-color: #00ACED;
   opacity: 1.0;
+}
+.twitter icon {
+  color: #00ACED;
 }
 #resources .blog-link {
   background-color: #5D5D5D;
@@ -6296,4 +6309,15 @@ html {
 }
 .calimport {
   margin-top: 30px;
+}
+#join {
+  min-height: 700px;
+}
+#scene {
+  background-image: url("../img/join-the-jerryclan-lets-jerry-dit.jpg");
+  background-size: cover;
+}
+.carousel-inner {
+  margin-top: 40px;
+  background-color: rgba(255, 255, 255, 0.7);
 }
